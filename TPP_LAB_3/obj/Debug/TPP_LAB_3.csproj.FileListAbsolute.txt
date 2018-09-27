@@ -1,0 +1,14 @@
+c:\users\serg\documents\visual studio 2015\Projects\TPP_LAB_3\TPP_LAB_3\bin\Debug\TPP_LAB_3.exe.config
+c:\users\serg\documents\visual studio 2015\Projects\TPP_LAB_3\TPP_LAB_3\bin\Debug\TPP_LAB_3.exe
+c:\users\serg\documents\visual studio 2015\Projects\TPP_LAB_3\TPP_LAB_3\bin\Debug\TPP_LAB_3.pdb
+c:\users\serg\documents\visual studio 2015\Projects\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.csprojResolveAssemblyReference.cache
+c:\users\serg\documents\visual studio 2015\Projects\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form1.resources
+c:\users\serg\documents\visual studio 2015\Projects\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.Properties.Resources.resources
+c:\users\serg\documents\visual studio 2015\Projects\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.csproj.GenerateResource.Cache
+c:\users\serg\documents\visual studio 2015\Projects\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.exe
+c:\users\serg\documents\visual studio 2015\Projects\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.pdb
+c:\users\serg\documents\visual studio 2015\Projects\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form2.resources
+c:\users\serg\documents\visual studio 2015\Projects\TPP_LAB_3\TPP_LAB_3\bin\Debug\Mono.Security.dll
+c:\users\serg\documents\visual studio 2015\Projects\TPP_LAB_3\TPP_LAB_3\bin\Debug\Npgsql.dll
+c:\users\serg\documents\visual studio 2015\Projects\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form3.resources
+c:\users\serg\documents\visual studio 2015\Projects\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form4.resources

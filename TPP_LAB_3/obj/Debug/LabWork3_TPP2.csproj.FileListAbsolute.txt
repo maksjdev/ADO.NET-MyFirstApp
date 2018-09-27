@@ -1,0 +1,48 @@
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\bin\Debug\TPP_LAB_3.exe.config
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\bin\Debug\TPP_LAB_3.exe
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\bin\Debug\TPP_LAB_3.pdb
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\bin\Debug\Mono.Security.dll
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\bin\Debug\Npgsql.dll
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\obj\Debug\LabWork3_TPP2.csprojAssemblyReference.cache
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form1.resources
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form2.resources
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form3.resources
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form4.resources
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.Properties.Resources.resources
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\obj\Debug\LabWork3_TPP2.csproj.GenerateResource.cache
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\obj\Debug\LabWork3_TPP2.csproj.CoreCompileInputs.cache
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\obj\Debug\LabWork3_TPP2.csproj.CopyComplete
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.exe
+D:\Projects\C# (.NET)\TPP_LAB_3\TPP_LAB_3\obj\Debug\TPP_LAB_3.pdb
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\bin\Debug\TPP_LAB_3.exe.config
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\bin\Debug\TPP_LAB_3.exe
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\bin\Debug\TPP_LAB_3.pdb
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\bin\Debug\Mono.Security.dll
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\bin\Debug\Npgsql.dll
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\obj\Debug\LabWork3_TPP2.csprojAssemblyReference.cache
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form1.resources
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form2.resources
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form3.resources
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form4.resources
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\obj\Debug\TPP_LAB_3.Properties.Resources.resources
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\obj\Debug\LabWork3_TPP2.csproj.GenerateResource.cache
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\obj\Debug\LabWork3_TPP2.csproj.CoreCompileInputs.cache
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\obj\Debug\LabWork3_TPP2.csproj.CopyComplete
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\obj\Debug\TPP_LAB_3.exe
+D:\Projects\C# (.NET)\LabWork3_TPP2\TPP_LAB_3\obj\Debug\TPP_LAB_3.pdb
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\bin\Debug\TPP_LAB_3.exe.config
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\bin\Debug\TPP_LAB_3.exe
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\bin\Debug\TPP_LAB_3.pdb
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\bin\Debug\Mono.Security.dll
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\bin\Debug\Npgsql.dll
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\obj\Debug\LabWork3_TPP2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form1.resources
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form2.resources
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form3.resources
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\obj\Debug\TPP_LAB_3.Form4.resources
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\obj\Debug\TPP_LAB_3.Properties.Resources.resources
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\obj\Debug\LabWork3_TPP2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\obj\Debug\LabWork3_TPP2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\obj\Debug\LabWork3_TPP2.csproj.CopyComplete
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\obj\Debug\TPP_LAB_3.exe
+C:\Users\User\Desktop\LabWork3_TPP2\TPP_LAB_3\obj\Debug\TPP_LAB_3.pdb
